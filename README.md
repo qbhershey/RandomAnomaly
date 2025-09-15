@@ -1,5 +1,7 @@
 # RandomAnomaly
-Random Anomaly dataset generation code for parquet files featured in sparse RNN research.  The two primary data files compiled using this process are too large to host here as they combine for 1.7GB but are available upon request.
+Random Anomaly dataset generation code for parquet files featured in sparse RNN research.  
+
+The two primary data files compiled using this process (RandomAnomaly_Train_Combined30.parquet.gzip and RandomAnomaly_Train_Combined58.parquet.gzip) are too large to host here as they combine for 1.71GB but are available upon request.
 
 An image example is shown in the repository, in each sequence each number represents a distinct image in a sequence of images.
 
