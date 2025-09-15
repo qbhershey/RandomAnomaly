@@ -1,5 +1,5 @@
 # RandomAnomaly
-Random Anomaly dataset generation code for parquet files featured in sparse RNN research from Quincy Hershey.
+Random Anomaly dataset generation code for parquet files featured in sparse RNN research.
 
 An image example is shown in the repository, in each sequence each number represents a distinct image in a sequence of images.
 
